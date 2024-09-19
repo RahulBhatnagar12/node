@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^11.0.2",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
